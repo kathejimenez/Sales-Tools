@@ -4,15 +4,12 @@ public class Main {
 	public static void main(String[] args) {
 		SalesData data = new SalesData();
        data.display();
-	   displayMeeting();
-		
+	   displayMeeting();	
 	}
 	
 	private static void displayMeeting(){
 		System.out.println("Digno y Santo");
-		System.out.println("Es Dios!");
-		
-		
+		System.out.println("Muy linda esta canción!");
+			
 	}
-
 }

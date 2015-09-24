@@ -1,9 +1,7 @@
 
 public class SalesData {
 
-	
 	int data = 5;
-	
 	
 	public void display(){
 		
